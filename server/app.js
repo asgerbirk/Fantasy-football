@@ -1,5 +1,10 @@
 import express from "express";
 import "dotenv/config";
+import { UserRouter } from "./routes/UserRouter.js";
+import { TeamRouter } from "./routes/TeamRouter.js";
+import { PlayerRouter } from "./routes/PlayerRouter.js";
+import { FixtureRouter } from "./routes/FixtureRouter.js";
+import { StandingRouter } from "./routes/StandingRouter.js";
 
 const app = express();
 
@@ -9,8 +14,11 @@ app.get("/", (req, res) => {
   res.send("Hello World");
 });
 
-import { UserRouter } from "./routes/UserRouter.js";
 app.use(UserRouter);
+app.use(TeamRouter);
+app.use(PlayerRouter);
+app.use(FixtureRouter);
+app.use(StandingRouter);
 
 console.log(process.env.PORT);
 
