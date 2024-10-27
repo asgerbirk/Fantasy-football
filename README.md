@@ -1,1 +1,1 @@
-# EU2024
+Fantasy football project
