@@ -1,5 +1,5 @@
-import { Router } from "express";
-import { getFixtures } from "../services/apiFootballService.js";
+import { Router, Request, Response } from "express";
+import { getFixtures, getPlayers } from "../services/apiFootballService.js";
 const router = Router();
 
 router.get("/fixtures", async (req, res) => {

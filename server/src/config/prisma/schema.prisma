@@ -15,9 +15,42 @@ datasource db {
 
 
 model User {
-  id       Int      @id @default(autoincrement())
-  username String   @unique
-  password String
+  id        Int       @id @default(autoincrement())
+  username  String    @unique
+  password  String
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  fantasyTeams FantasyTeam[]
+}
+
+model Player {
+  id          Int         @id @default(autoincrement())
+  name        String
+  position    String
+  nationality String
+  club        String
+  price       Int
+  statistics  Statistic[] // Relation to statistics
+    fantasyTeams FantasyTeam[] @relation("TeamPlayers")
+
+}
+
+model Statistic {
+  id          Int      @id @default(autoincrement())
+  goals       Int      @default(0)
+  assists     Int      @default(0)
+  yellowCards Int      @default(0)
+  redCards    Int      @default(0)
+  createdAt   DateTime @default(now()) // Date the stats are recorded
+  playerId    Int
+  player      Player   @relation(fields: [playerId], references: [id])
+}
+
+model FantasyTeam {
+  id        Int      @id @default(autoincrement())
+  name      String
   createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+  userId    Int
+  user      User     @relation(fields: [userId], references: [id])
+  players   Player[] @relation("TeamPlayers") // Relation to players on the team
 }

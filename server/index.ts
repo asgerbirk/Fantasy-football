@@ -4,6 +4,7 @@ import { FixtureRouter } from "./src/api/routes/FixtureRouter.js";
 import cors from "cors";
 import UserRouter from "./src/api/routes/UserRouter.js";
 import AuthRouter from "./src/api/routes/AuthRouter.js";
+import { PlayerRouter } from "./src/api/routes/PlayerRouter.js";
 
 const app = express();
 
@@ -17,6 +18,7 @@ app.get("/", (req, res) => {
 app.use("/users", UserRouter);
 app.use("/", AuthRouter);
 app.use(FixtureRouter);
+app.use(PlayerRouter);
 
 app.listen(process.env.PORT, () => {
   console.log(`Server is running on port ${process.env.PORT}`);

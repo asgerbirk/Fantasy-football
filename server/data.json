@@ -1,0 +1,1216 @@
+[
+  {
+    "name": "Robert Sánchez",
+    "position": "Goalkeeper",
+    "nationality": "Spain",
+    "club": "Chelsea FC",
+    "price": 12
+  },
+  {
+    "name": "Filip Jørgensen",
+    "position": "Goalkeeper",
+    "nationality": "Denmark",
+    "club": "Chelsea FC",
+    "price": 8
+  },
+  {
+    "name": "Marcus Bettinelli",
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "club": "Chelsea FC",
+    "price": 5
+  },
+  {
+    "name": "Lucas Bergström",
+    "position": "Goalkeeper",
+    "nationality": "Finland",
+    "club": "Chelsea FC",
+    "price": 4
+  },
+  {
+    "name": "Levi Colwill",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Chelsea FC",
+    "price": 10
+  },
+  {
+    "name": "Axel Disasi",
+    "position": "Defender",
+    "nationality": "France",
+    "club": "Chelsea FC",
+    "price": 9
+  },
+  {
+    "name": "Benoît Badiashile",
+    "position": "Defender",
+    "nationality": "France",
+    "club": "Chelsea FC",
+    "price": 8
+  },
+  {
+    "name": "Wesley Fofana",
+    "position": "Defender",
+    "nationality": "France",
+    "club": "Chelsea FC",
+    "price": 7
+  },
+  {
+    "name": "Tosin Adarabioyo",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Chelsea FC",
+    "price": 6
+  },
+  {
+    "name": "Renato Veiga",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "club": "Chelsea FC",
+    "price": 5
+  },
+  {
+    "name": "Marc Cucurella",
+    "position": "Defender",
+    "nationality": "Spain",
+    "club": "Chelsea FC",
+    "price": 8
+  },
+  {
+    "name": "Ben Chilwell",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Chelsea FC",
+    "price": 7
+  },
+  {
+    "name": "Reece James",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Chelsea FC",
+    "price": 9
+  },
+  {
+    "name": "Malo Gusto",
+    "position": "Defender",
+    "nationality": "France",
+    "club": "Chelsea FC",
+    "price": 8
+  },
+  {
+    "name": "Moisés Caicedo",
+    "position": "Midfielder",
+    "nationality": "Ecuador",
+    "club": "Chelsea FC",
+    "price": 13
+  },
+  {
+    "name": "Roméo Lavia",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "club": "Chelsea FC",
+    "price": 10
+  },
+  {
+    "name": "Enzo Fernández",
+    "position": "Midfielder",
+    "nationality": "Argentina",
+    "club": "Chelsea FC",
+    "price": 14
+  },
+  {
+    "name": "Kiernan Dewsbury-Hall",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Chelsea FC",
+    "price": 9
+  },
+  {
+    "name": "Carney Chukwuemeka",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Chelsea FC",
+    "price": 8
+  },
+  {
+    "name": "Cesare Casadei",
+    "position": "Midfielder",
+    "nationality": "Italy",
+    "club": "Chelsea FC",
+    "price": 7
+  },
+  {
+    "name": "Cole Palmer",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Chelsea FC",
+    "price": 12
+  },
+  {
+    "name": "Christopher Nkunku",
+    "position": "Forward",
+    "nationality": "France",
+    "club": "Chelsea FC",
+    "price": 13
+  },
+  {
+    "name": "Mykhailo Mudryk",
+    "position": "Forward",
+    "nationality": "Ukraine",
+    "club": "Chelsea FC",
+    "price": 10
+  },
+  {
+    "name": "Jadon Sancho",
+    "position": "Forward",
+    "nationality": "England",
+    "club": "Chelsea FC",
+    "price": 11
+  },
+  {
+    "name": "Pedro Neto",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "club": "Chelsea FC",
+    "price": 12
+  },
+  {
+    "name": "Noni Madueke",
+    "position": "Forward",
+    "nationality": "England",
+    "club": "Chelsea FC",
+    "price": 9
+  },
+  {
+    "name": "João Félix",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "club": "Chelsea FC",
+    "price": 10
+  },
+  {
+    "name": "Nicolas Jackson",
+    "position": "Forward",
+    "nationality": "Senegal",
+    "club": "Chelsea FC",
+    "price": 11
+  },
+  {
+    "name": "Deivid Washington",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "club": "Chelsea FC",
+    "price": 8
+  },
+  {
+    "name": "Marc Guiu",
+    "position": "Forward",
+    "nationality": "Spain",
+    "club": "Chelsea FC",
+    "price": 7
+  },
+  {
+    "name": "David Raya",
+    "position": "Goalkeeper",
+    "nationality": "Spain",
+    "club": "Arsenal FC",
+    "price": 12
+  },
+  {
+    "name": "Tommy Setford",
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "club": "Arsenal FC",
+    "price": 5
+  },
+  {
+    "name": "Neto",
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "club": "Arsenal FC",
+    "price": 8
+  },
+  {
+    "name": "Alexei Rojas Fedorushchenko",
+    "position": "Goalkeeper",
+    "nationality": "Colombia",
+    "club": "Arsenal FC",
+    "price": 4
+  },
+  {
+    "name": "Jack Porter",
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "club": "Arsenal FC",
+    "price": 3
+  },
+  {
+    "name": "William Saliba",
+    "position": "Defender",
+    "nationality": "France",
+    "club": "Arsenal FC",
+    "price": 10
+  },
+  {
+    "name": "Kieran Tierney",
+    "position": "Defender",
+    "nationality": "Scotland",
+    "club": "Arsenal FC",
+    "price": 7
+  },
+  {
+    "name": "Ben White",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Arsenal FC",
+    "price": 9
+  },
+  {
+    "name": "Gabriel Magalhães",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "club": "Arsenal FC",
+    "price": 8
+  },
+  {
+    "name": "Jurriën Timber",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "club": "Arsenal FC",
+    "price": 8
+  },
+  {
+    "name": "Jakub Kiwior",
+    "position": "Defender",
+    "nationality": "Poland",
+    "club": "Arsenal FC",
+    "price": 6
+  },
+  {
+    "name": "Takehiro Tomiyasu",
+    "position": "Defender",
+    "nationality": "Japan",
+    "club": "Arsenal FC",
+    "price": 7
+  },
+  {
+    "name": "Oleksandr Zinchenko",
+    "position": "Defender",
+    "nationality": "Ukraine",
+    "club": "Arsenal FC",
+    "price": 9
+  },
+  {
+    "name": "Riccardo Calafiori",
+    "position": "Defender",
+    "nationality": "Italy",
+    "club": "Arsenal FC",
+    "price": 6
+  },
+  {
+    "name": "Maldini Kacurri",
+    "position": "Defender",
+    "nationality": "Albania",
+    "club": "Arsenal FC",
+    "price": 5
+  },
+  {
+    "name": "Josh Nichols",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Arsenal FC",
+    "price": 4
+  },
+  {
+    "name": "Ayden Heaven",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Arsenal FC",
+    "price": 3
+  },
+  {
+    "name": "Josh Robinson",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Arsenal FC",
+    "price": 3
+  },
+  {
+    "name": "Zane Monlouis",
+    "position": "Defender",
+    "nationality": "Jamaica",
+    "club": "Arsenal FC",
+    "price": 4
+  },
+  {
+    "name": "Thomas Partey",
+    "position": "Midfielder",
+    "nationality": "Ghana",
+    "club": "Arsenal FC",
+    "price": 10
+  },
+  {
+    "name": "Martin Ødegaard",
+    "position": "Midfielder",
+    "nationality": "Norway",
+    "club": "Arsenal FC",
+    "price": 12
+  },
+  {
+    "name": "Jorginho",
+    "position": "Midfielder",
+    "nationality": "Italy",
+    "club": "Arsenal FC",
+    "price": 8
+  },
+  {
+    "name": "Kai Havertz",
+    "position": "Midfielder",
+    "nationality": "Germany",
+    "club": "Arsenal FC",
+    "price": 9
+  },
+  {
+    "name": "Declan Rice",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Arsenal FC",
+    "price": 11
+  },
+  {
+    "name": "Myles Lewis-Skelly",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Arsenal FC",
+    "price": 5
+  },
+  {
+    "name": "Ethan Nwaneri",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Arsenal FC",
+    "price": 4
+  },
+  {
+    "name": "Mikel Merino",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "club": "Arsenal FC",
+    "price": 9
+  },
+  {
+    "name": "Salah-Eddine Oulad M'hand",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "club": "Arsenal FC",
+    "price": 6
+  },
+  {
+    "name": "Bukayo Saka",
+    "position": "Forward",
+    "nationality": "England",
+    "club": "Arsenal FC",
+    "price": 13
+  },
+  {
+    "name": "Gabriel Jesus",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "club": "Arsenal FC",
+    "price": 11
+  },
+  {
+    "name": "Gabriel Martinelli",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "club": "Arsenal FC",
+    "price": 10
+  },
+  {
+    "name": "Leandro Trossard",
+    "position": "Forward",
+    "nationality": "Belgium",
+    "club": "Arsenal",
+    "price": 11
+  },
+
+  {
+    "name": "Emiliano Martínez",
+    "position": "Goalkeeper",
+    "nationality": "Argentina",
+    "club": "Aston Villa",
+    "price": 12
+  },
+  {
+    "name": "Robin Olsen",
+    "position": "Goalkeeper",
+    "nationality": "Sweden",
+    "club": "Aston Villa",
+    "price": 8
+  },
+  {
+    "name": "Joe Gauci",
+    "position": "Goalkeeper",
+    "nationality": "Australia",
+    "club": "Aston Villa",
+    "price": 6
+  },
+  {
+    "name": "Oliwier Zych",
+    "position": "Goalkeeper",
+    "nationality": "Poland",
+    "club": "Aston Villa",
+    "price": 5
+  },
+  {
+    "name": "Matty Cash",
+    "position": "Defender",
+    "nationality": "Poland",
+    "club": "Aston Villa",
+    "price": 10
+  },
+  {
+    "name": "Diego Carlos",
+    "position": "Defender",
+    "nationality": "Brazil",
+    "club": "Aston Villa",
+    "price": 9
+  },
+  {
+    "name": "Ezri Konsa",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Aston Villa",
+    "price": 8
+  },
+  {
+    "name": "Tyrone Mings",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Aston Villa",
+    "price": 9
+  },
+  {
+    "name": "Lucas Digne",
+    "position": "Defender",
+    "nationality": "France",
+    "club": "Aston Villa",
+    "price": 8
+  },
+  {
+    "name": "Pau Torres",
+    "position": "Defender",
+    "nationality": "Spain",
+    "club": "Aston Villa",
+    "price": 10
+  },
+  {
+    "name": "Kortney Hause",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Aston Villa",
+    "price": 7
+  },
+  {
+    "name": "Ian Maatsen",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "club": "Aston Villa",
+    "price": 8
+  },
+  {
+    "name": "Sil Swinkels",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "club": "Aston Villa",
+    "price": 6
+  },
+  {
+    "name": "Lamare Bogarde",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "club": "Aston Villa",
+    "price": 5
+  },
+  {
+    "name": "Triston Rowe",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Aston Villa",
+    "price": 4
+  },
+  {
+    "name": "Thierry Katsukunya",
+    "position": "Defender",
+    "nationality": "Wales",
+    "club": "Aston Villa",
+    "price": 4
+  },
+  {
+    "name": "John McGinn",
+    "position": "Midfielder",
+    "nationality": "Scotland",
+    "club": "Aston Villa",
+    "price": 10
+  },
+  {
+    "name": "Youri Tielemans",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "club": "Aston Villa",
+    "price": 9
+  },
+  {
+    "name": "Emiliano Buendía",
+    "position": "Midfielder",
+    "nationality": "Argentina",
+    "club": "Aston Villa",
+    "price": 9
+  },
+  {
+    "name": "Jacob Ramsey",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Aston Villa",
+    "price": 8
+  },
+  {
+    "name": "Boubacar Kamara",
+    "position": "Midfielder",
+    "nationality": "France",
+    "club": "Aston Villa",
+    "price": 9
+  },
+  {
+    "name": "Leon Bailey",
+    "position": "Midfielder",
+    "nationality": "Jamaica",
+    "club": "Aston Villa",
+    "price": 8
+  },
+  {
+    "name": "Ross Barkley",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Aston Villa",
+    "price": 7
+  },
+  {
+    "name": "Amadou Onana",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "club": "Aston Villa",
+    "price": 10
+  },
+  {
+    "name": "Aidan Borland",
+    "position": "Midfielder",
+    "nationality": "Scotland",
+    "club": "Aston Villa",
+    "price": 5
+  },
+  {
+    "name": "Jamaldeen Jimoh",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Aston Villa",
+    "price": 4
+  },
+  {
+    "name": "Ollie Watkins",
+    "position": "Forward",
+    "nationality": "England",
+    "club": "Aston Villa",
+    "price": 11
+  },
+  {
+    "name": "Jhon Durán",
+    "position": "Forward",
+    "nationality": "Colombia",
+    "club": "Aston Villa",
+    "price": 9
+  },
+  {
+    "name": "Morgan Rogers",
+    "position": "Forward",
+    "nationality": "England",
+    "club": "Aston Villa",
+    "price": 8
+  },
+  {
+    "name": "Jaden Philogene",
+    "position": "Forward",
+    "nationality": "England",
+    "club": "Aston Villa",
+    "price": 7
+  },
+  {
+    "name": "Kadan Young",
+    "position": "Forward",
+    "nationality": "England",
+    "club": "Aston Villa",
+    "price": 6
+  },
+  {
+    "name": "Ben Broggio",
+    "position": "Forward",
+    "nationality": "England",
+    "club": "Aston Villa",
+    "price": 5
+  },
+
+  {
+    "name": "Alisson Becker",
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "club": "Liverpool FC",
+    "price": 13
+  },
+  {
+    "name": "Caoimhín Kelleher",
+    "position": "Goalkeeper",
+    "nationality": "Ireland",
+    "club": "Liverpool FC",
+    "price": 8
+  },
+  {
+    "name": "Vítězslav Jaroš",
+    "position": "Goalkeeper",
+    "nationality": "Czech Republic",
+    "club": "Liverpool FC",
+    "price": 6
+  },
+  {
+    "name": "Harvey Davies",
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "club": "Liverpool FC",
+    "price": 5
+  },
+  {
+    "name": "Joe Gomez",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Liverpool FC",
+    "price": 9
+  },
+  {
+    "name": "Virgil van Dijk",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "club": "Liverpool FC",
+    "price": 14
+  },
+  {
+    "name": "Ibrahima Konaté",
+    "position": "Defender",
+    "nationality": "France",
+    "club": "Liverpool FC",
+    "price": 10
+  },
+  {
+    "name": "Kostas Tsimikas",
+    "position": "Defender",
+    "nationality": "Greece",
+    "club": "Liverpool FC",
+    "price": 7
+  },
+  {
+    "name": "Andy Robertson",
+    "position": "Defender",
+    "nationality": "Scotland",
+    "club": "Liverpool FC",
+    "price": 11
+  },
+  {
+    "name": "Trent Alexander-Arnold",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Liverpool FC",
+    "price": 13
+  },
+  {
+    "name": "Jarell Quansah",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Liverpool FC",
+    "price": 6
+  },
+  {
+    "name": "Conor Bradley",
+    "position": "Defender",
+    "nationality": "Northern Ireland",
+    "club": "Liverpool FC",
+    "price": 5
+  },
+  {
+    "name": "Dominik Szoboszlai",
+    "position": "Midfielder",
+    "nationality": "Hungary",
+    "club": "Liverpool FC",
+    "price": 12
+  },
+  {
+    "name": "Alexis Mac Allister",
+    "position": "Midfielder",
+    "nationality": "Argentina",
+    "club": "Liverpool FC",
+    "price": 11
+  },
+  {
+    "name": "Curtis Jones",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Liverpool FC",
+    "price": 9
+  },
+  {
+    "name": "Harvey Elliott",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Liverpool FC",
+    "price": 8
+  },
+  {
+    "name": "Wataru Endo",
+    "position": "Midfielder",
+    "nationality": "Japan",
+    "club": "Liverpool FC",
+    "price": 7
+  },
+  {
+    "name": "Ryan Gravenberch",
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "club": "Liverpool FC",
+    "price": 10
+  },
+  {
+    "name": "Trey Nyoni",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Liverpool FC",
+    "price": 5
+  },
+  {
+    "name": "Tyler Morton",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Liverpool FC",
+    "price": 6
+  },
+  {
+    "name": "Luis Díaz",
+    "position": "Forward",
+    "nationality": "Colombia",
+    "club": "Liverpool FC",
+    "price": 12
+  },
+  {
+    "name": "Darwin Núñez",
+    "position": "Forward",
+    "nationality": "Uruguay",
+    "club": "Liverpool FC",
+    "price": 11
+  },
+  {
+    "name": "Mohamed Salah",
+    "position": "Forward",
+    "nationality": "Egypt",
+    "club": "Liverpool FC",
+    "price": 15
+  },
+  {
+    "name": "Cody Gakpo",
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "club": "Liverpool FC",
+    "price": 10
+  },
+  {
+    "name": "Diogo Jota",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "club": "Liverpool FC",
+    "price": 11
+  },
+  {
+    "name": "Federico Chiesa",
+    "position": "Forward",
+    "nationality": "Italy",
+    "club": "Liverpool FC",
+    "price": 12
+  },
+
+  {
+    "name": "Stefan Ortega",
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "club": "Manchester City FC",
+    "price": 8
+  },
+  {
+    "name": "Ederson",
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "club": "Manchester City FC",
+    "price": 12
+  },
+  {
+    "name": "Scott Carson",
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "club": "Manchester City FC",
+    "price": 5
+  },
+  {
+    "name": "Kyle Walker",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Manchester City FC",
+    "price": 10
+  },
+  {
+    "name": "Rúben Dias",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "club": "Manchester City FC",
+    "price": 11
+  },
+  {
+    "name": "John Stones",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Manchester City FC",
+    "price": 10
+  },
+  {
+    "name": "Nathan Aké",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "club": "Manchester City FC",
+    "price": 9
+  },
+  {
+    "name": "Josko Gvardiol",
+    "position": "Defender",
+    "nationality": "Croatia",
+    "club": "Manchester City FC",
+    "price": 10
+  },
+  {
+    "name": "Manuel Akanji",
+    "position": "Defender",
+    "nationality": "Switzerland",
+    "club": "Manchester City FC",
+    "price": 9
+  },
+  {
+    "name": "Rico Lewis",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Manchester City FC",
+    "price": 7
+  },
+  {
+    "name": "Josh Wilson-Esbrand",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Manchester City FC",
+    "price": 6
+  },
+  {
+    "name": "Kaden Braithwaite",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Manchester City FC",
+    "price": 5
+  },
+  {
+    "name": "Jahmai Simpson-Pusey",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Manchester City FC",
+    "price": 5
+  },
+  {
+    "name": "Mateo Kovacic",
+    "position": "Midfielder",
+    "nationality": "Croatia",
+    "club": "Manchester City FC",
+    "price": 10
+  },
+  {
+    "name": "Jack Grealish",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Manchester City FC",
+    "price": 11
+  },
+  {
+    "name": "Rodri",
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "club": "Manchester City FC",
+    "price": 12
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "club": "Manchester City FC",
+    "price": 14
+  },
+  {
+    "name": "Bernardo Silva",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "club": "Manchester City FC",
+    "price": 11
+  },
+  {
+    "name": "Phil Foden",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Manchester City FC",
+    "price": 12
+  },
+  {
+    "name": "James McAtee",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Manchester City FC",
+    "price": 7
+  },
+  {
+    "name": "Matheus Nunes",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "club": "Manchester City FC",
+    "price": 9
+  },
+  {
+    "name": "Oscar Bobb",
+    "position": "Midfielder",
+    "nationality": "Norway",
+    "club": "Manchester City FC",
+    "price": 6
+  },
+  {
+    "name": "Ilkay Gündogan",
+    "position": "Midfielder",
+    "nationality": "Germany",
+    "club": "Manchester City FC",
+    "price": 10
+  },
+  {
+    "name": "Jacob Wright",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Manchester City FC",
+    "price": 5
+  },
+  {
+    "name": "Erling Haaland",
+    "position": "Forward",
+    "nationality": "Norway",
+    "club": "Manchester City FC",
+    "price": 15
+  },
+  {
+    "name": "Jérémy Doku",
+    "position": "Forward",
+    "nationality": "Belgium",
+    "club": "Manchester City FC",
+    "price": 10
+  },
+  {
+    "name": "Savinho",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "club": "Manchester City FC",
+    "price": 8
+  },
+  {
+    "name": "Farid Alfa-Ruprecht",
+    "position": "Forward",
+    "nationality": "Germany",
+    "club": "Manchester City FC",
+    "price": 6
+  },
+  {
+    "name": "André Onana",
+    "position": "Goalkeeper",
+    "nationality": "Cameroon",
+    "club": "Manchester United",
+    "price": 12
+  },
+  {
+    "name": "Altay Bayındır",
+    "position": "Goalkeeper",
+    "nationality": "Turkey",
+    "club": "Manchester United",
+    "price": 8
+  },
+  {
+    "name": "Tom Heaton",
+    "position": "Goalkeeper",
+    "nationality": "England",
+    "club": "Manchester United",
+    "price": 6
+  },
+  {
+    "name": "Victor Lindelöf",
+    "position": "Defender",
+    "nationality": "Sweden",
+    "club": "Manchester United",
+    "price": 9
+  },
+  {
+    "name": "Harry Maguire",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Manchester United",
+    "price": 8
+  },
+  {
+    "name": "Lisandro Martínez",
+    "position": "Defender",
+    "nationality": "Argentina",
+    "club": "Manchester United",
+    "price": 10
+  },
+  {
+    "name": "Tyrell Malacia",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "club": "Manchester United",
+    "price": 7
+  },
+  {
+    "name": "Diogo Dalot",
+    "position": "Defender",
+    "nationality": "Portugal",
+    "club": "Manchester United",
+    "price": 9
+  },
+  {
+    "name": "Luke Shaw",
+    "position": "Defender",
+    "nationality": "England",
+    "club": "Manchester United",
+    "price": 10
+  },
+  {
+    "name": "Jonny Evans",
+    "position": "Defender",
+    "nationality": "Northern Ireland",
+    "club": "Manchester United",
+    "price": 6
+  },
+  {
+    "name": "Leny Yoro",
+    "position": "Defender",
+    "nationality": "France",
+    "club": "Manchester United",
+    "price": 8
+  },
+  {
+    "name": "Noussair Mazraoui",
+    "position": "Defender",
+    "nationality": "Morocco",
+    "club": "Manchester United",
+    "price": 9
+  },
+  {
+    "name": "Matthijs de Ligt",
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "club": "Manchester United",
+    "price": 11
+  },
+  {
+    "name": "Mason Mount",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Manchester United",
+    "price": 10
+  },
+  {
+    "name": "Bruno Fernandes",
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "club": "Manchester United",
+    "price": 12
+  },
+  {
+    "name": "Christian Eriksen",
+    "position": "Midfielder",
+    "nationality": "Denmark",
+    "club": "Manchester United",
+    "price": 9
+  },
+  {
+    "name": "Casemiro",
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "club": "Manchester United",
+    "price": 11
+  },
+  {
+    "name": "Kobbie Mainoo",
+    "position": "Midfielder",
+    "nationality": "England",
+    "club": "Manchester United",
+    "price": 7
+  },
+  {
+    "name": "Manuel Ugarte",
+    "position": "Midfielder",
+    "nationality": "Uruguay",
+    "club": "Manchester United",
+    "price": 8
+  },
+  {
+    "name": "Rasmus Højlund",
+    "position": "Forward",
+    "nationality": "Denmark",
+    "club": "Manchester United",
+    "price": 10
+  },
+  {
+    "name": "Marcus Rashford",
+    "position": "Forward",
+    "nationality": "England",
+    "club": "Manchester United",
+    "price": 12
+  },
+  {
+    "name": "Amad Diallo",
+    "position": "Forward",
+    "nationality": "Ivory Coast",
+    "club": "Manchester United",
+    "price": 8
+  },
+  {
+    "name": "Antony",
+    "position": "Forward",
+    "nationality": "Brazil",
+    "club": "Manchester United",
+    "price": 9
+  },
+  {
+    "name": "Alejandro Garnacho",
+    "position": "Forward",
+    "nationality": "Argentina",
+    "club": "Manchester United",
+    "price": 8
+  },
+  {
+    "name": "Joshua Zirkzee",
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "club": "Manchester United",
+    "price": 9
+  }
+]
