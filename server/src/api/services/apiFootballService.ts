@@ -7,11 +7,13 @@ const headers = {
   "x-apisports-key": apiKey,
 };
 
-const EURO_2024_LEAGUE_ID = 4;
+const PREMIER_LEAGUE_ID = 39;
+const SEASON = 2024;
 
 export async function getTeams() {
   const response = await axios.get(
-    `${apiUrl}teams?league=${EURO_2024_LEAGUE_ID}&season=2024`,
+    `${apiUrl}teams?league=${PREMIER_LEAGUE_ID}&season=${SEASON}`,
+
     { headers }
   );
   return response.data.response;
@@ -19,31 +21,16 @@ export async function getTeams() {
 
 export async function getPlayers(teamId) {
   const response = await axios.get(
-    `${apiUrl}players?team=${teamId}&season=2024`,
+    `${apiUrl}players?team=${teamId}&season=${SEASON}`,
+
     { headers }
   );
   return response.data.response;
 }
 
-export async function getAllPlayers() {
-  try {
-    const teams = await getTeams();
-    let allPlayers = [];
-
-    for (const team of teams) {
-      const players = await getPlayers(team.team.id);
-      allPlayers = allPlayers.concat(players);
-    }
-
-    return allPlayers;
-  } catch (error) {
-    throw new Error(`Failed to fetch players: ${error.message}`);
-  }
-}
-
 export async function getFixtures() {
   const response = await axios.get(
-    `${apiUrl}fixtures?league=${EURO_2024_LEAGUE_ID}&season=2024`,
+    `${apiUrl}fixtures?league=${PREMIER_LEAGUE_ID}&season=${SEASON}`,
     { headers }
   );
   return response.data.response;
@@ -51,7 +38,7 @@ export async function getFixtures() {
 
 export async function getStandings() {
   const response = await axios.get(
-    `${apiUrl}standings?league=${EURO_2024_LEAGUE_ID}&season=2024`,
+    `${apiUrl}standings?league=${PREMIER_LEAGUE_ID}&season=${SEASON}`,
     { headers }
   );
   return response.data.response;
