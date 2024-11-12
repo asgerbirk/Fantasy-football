@@ -9,3 +9,6 @@ For database generation:
 npx prisma generate
 
 npx prisma migrate
+
+
+<img width="770" alt="image" src="https://github.com/user-attachments/assets/4a013dea-10f8-49ff-8f20-4985fe5e9053">
