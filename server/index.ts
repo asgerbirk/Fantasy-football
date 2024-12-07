@@ -15,6 +15,7 @@ app.get("/", (req, res) => {
   res.send("Hello World");
 });
 
+
 app.use("/users", UserRouter);
 app.use("/", AuthRouter);
 app.use(FixtureRouter);
